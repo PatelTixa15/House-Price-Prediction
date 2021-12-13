@@ -10,3 +10,25 @@ https://matplotlib.org/
 https://scikit-learn.org/stable/index.html
 
 https://seaborn.pydata.org/
+
+
+Install python
+
+$ pip install python
+
+$ pip install python3
+
+
+Install pandas
+
+$ pip install pandas
+
+
+Install matplotlib
+
+$ pip install matplotlib
+
+
+Install seaborn
+
+$ pip install seaborn
